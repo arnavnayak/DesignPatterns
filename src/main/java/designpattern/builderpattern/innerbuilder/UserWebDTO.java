@@ -54,7 +54,6 @@ public class UserWebDTO {// this is our product class, that is the final complex
         private String age;
         private String fullAddress;
         private UserWebDTO userWebDTO;
-
         public UserWebDTOBuilder withFirstName(String fName){
             firstName = fName;
             return this;
