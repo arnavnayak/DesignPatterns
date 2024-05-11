@@ -15,7 +15,7 @@ public class UserWebDTO {// this is our product class, that is the final complex
         return name;
     }
 
-    public void setName(String name) {
+    private void setName(String name) {
         this.name = name;
     }
 
@@ -23,7 +23,7 @@ public class UserWebDTO {// this is our product class, that is the final complex
         return address;
     }
 
-    public void setAddress(String address) {
+    private void setAddress(String address) {
         this.address = address;
     }
 
@@ -31,7 +31,7 @@ public class UserWebDTO {// this is our product class, that is the final complex
         return age;
     }
 
-    public void setAge(String age) {
+    private void setAge(String age) {
         this.age = age;
     }
 
