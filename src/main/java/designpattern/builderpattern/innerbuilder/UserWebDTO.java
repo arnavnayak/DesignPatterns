@@ -10,6 +10,7 @@ public class UserWebDTO {// this is our product class, that is the final complex
     private String name;
     private String address;
     private String age;
+    
     public String getName() {
         return name;
     }
