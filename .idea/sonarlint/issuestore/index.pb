@@ -19,3 +19,15 @@ w
 Gsrc/main/java/designpattern/builderpattern/innerbuilder/UserWebDTO.java,8/6/86349fa6fde71acda8d02cc4d89859a2f95138aa
 q
 Asrc/main/java/designpattern/builderpattern/innerbuilder/User.java,c/8/c8178452db38f163f446c4f1bdd0d51a50831cc9
+c
+3src/main/java/designpattern/simplefactory/Post.java,2/b/2b1b4e319e471b2cf5b1a47ec662afa082a63e9e
+g
+7src/main/java/designpattern/simplefactory/NewsPost.java,f/e/fedcc2ce75db03b47955e8996aa28e6132abec87
+g
+7src/main/java/designpattern/simplefactory/BlogPost.java,1/f/1f73b2f4b1c419c5255363939af07d54fd709b40
+j
+:src/main/java/designpattern/simplefactory/ProductPost.java,c/a/cab254ae8b64a34d09993b3adb9fbc3644f7e084
+j
+:src/main/java/designpattern/simplefactory/PostFactory.java,f/9/f98b01b08426223f22425c7360a4fe23eb34e1c4
+c
+3src/main/java/designpattern/simplefactory/Main.java,5/f/5f2404ffe2d1506dce719abe3cba41fab45a4fa4
