@@ -1,0 +1,11 @@
+
+”
+java:S1192"LDefine a constant instead of duplicating this literal "position : " 4 times.(öÿÝÙûÿÿÿÿ8°´ÚÝø1J$47438194-ba64-46d0-ac4f-16c75a5f75a2
+‹
+java:S2259 "HA "NullPointerException" could be thrown; "swordsMan2" is nullable here.(Ý‹´°8²©ßÝø1J$33da072e-8023-4235-9f2a-5a7daf0ef2fb
+r	java:S106"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8Î‹ÙÝø1J$bffa587d-48b9-446d-b689-056f6d76ee42
+r	java:S106"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8Ð‹ÙÝø1J$4ff45319-eb0e-4f7d-bf14-68d402bddd31
+r	java:S106"+Replace this use of System.out by a logger.(öÿÝÙûÿÿÿÿ8Ð‹ÙÝø1J$c02423c0-6562-4959-9de5-859c7c0f578a
+m	java:S106 "+Replace this use of System.out by a logger.(Ý‹´°8Ñ‹ÙÝø1J$4420cf0e-2254-4b83-abb8-5efe9837d6dd
+m	java:S106!"+Replace this use of System.out by a logger.(°Ð˜Ç8á­ñÝø1J$9645b2ce-32f3-4dac-be9f-4de40900fe0c
+m	java:S106$"+Replace this use of System.out by a logger.(°Ð˜Ç8œÛñÝø1J$12e8cf01-1ecc-4839-9a19-46e0301a4d1d
