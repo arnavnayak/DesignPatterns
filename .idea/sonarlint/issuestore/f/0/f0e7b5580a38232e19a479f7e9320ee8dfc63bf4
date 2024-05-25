@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8‚™ˆ¹ù1J$e0efe7d6-97ad-4561-bfb6-8a8b29c0a136
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8„™ˆ¹ù1J$206e071b-0d81-4390-9bd9-92da9a995581
+v
+java:S1481"3Remove this unused "lazySihngleton" local variable.(Êü¼É8™ˆ¹ù1J$341cc7af-edfa-4f2b-a5c4-6d6c9385cd8e
+r	java:S106"+Replace this use of System.out by a logger.(Ÿìû‚øÿÿÿÿ8™ˆ¹ù1J$e233b5e3-6c4a-4867-b867-cb2e5e49be3c
+m	java:S106"+Replace this use of System.out by a logger.(¼–œ8‘™ˆ¹ù1J$587dc2b9-846d-44de-9c3d-ce7022d3aeab
+m	java:S106"+Replace this use of System.out by a logger.(­¢šº8‘™ˆ¹ù1J$409edc69-198e-47c8-87ff-3561b46369c1
+m	java:S106"+Replace this use of System.out by a logger.(ˆ”òó8‘™ˆ¹ù1J$77213caa-fd35-4270-ba51-55aa9f80bc1c

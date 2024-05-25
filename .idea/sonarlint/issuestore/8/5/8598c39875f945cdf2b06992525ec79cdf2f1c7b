@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(—õæúÿÿÿÿ8™¼ö¸ù1J$7f45ead7-70c9-48e8-847e-aefc34d0c2db
+–
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óûí8ö™ã¸ù1J$5dfa1bb6-4564-42db-ab39-81d5f70fc3e2
+s
+java:S2440"0Remove this instantiation of "LazyRegistryIODH".(Óûí8ú™ã¸ù1J$fee15ecf-e069-4fbd-9396-879d3d1dcbd6
